@@ -14,6 +14,7 @@
   <img align="center" alt="node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="aws" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+ <img align="right" width="320" height="205" src="https://1.bp.blogspot.com/-_bwAbo2WLg0/XmGXZS1zNYI/AAAAAAAATOs/r_UMqmjdqjAElj_A2pe4yQgpOba7Po-SwCNcBGAsYHQ/s1600/tenor%2B%25283%2529.gif" target="_blank">
 
 </div>
   
@@ -23,6 +24,7 @@
   <a href="https://instagram.com/michelalvessz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:snopbsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michel-alves-da-silva-91948a127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
    ##
  
